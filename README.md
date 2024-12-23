@@ -17,8 +17,7 @@ This project focuses on segmenting brain MRI scans using advanced deep learning 
 5. [Results and Visualization](#results-and-visualization)
 6. [Installation](#installation)
 7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ## Introduction
 Brain MRI segmentation is a crucial task in medical imaging to identify and delineate regions of interest such as tumors or anatomical structures. This project leverages U-Net and TransUnet architectures to perform segmentation with high accuracy.
@@ -58,4 +57,12 @@ The segmentation results are visualized to compare the ground truth masks and mo
 2. Install required dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Usage
+1. Dataset Preparation:
+2. Training the Model:
+3. Evaluating the Model:
+4. Visualizing Results:
+5. Hyperparameter Tuning
+
 
