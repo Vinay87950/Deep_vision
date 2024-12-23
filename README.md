@@ -59,10 +59,10 @@ The segmentation results are visualized to compare the ground truth masks and mo
    pip install -r requirements.txt
 
 ## Usage
-1. Dataset Preparation:
-2. Training the Model:
-3. Evaluating the Model:
-4. Visualizing Results:
+1. Dataset Preparation
+2. Training the Model
+3. Evaluating the Model
+4. Visualizing Results
 5. Hyperparameter Tuning
 
 
