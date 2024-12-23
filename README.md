@@ -26,6 +26,7 @@ Brain MRI segmentation is a crucial task in medical imaging to identify and deli
 ## Dataset
 The dataset used for this project includes brain MRI scans, sourced from [Kaggle](https://www.kaggle.com). The images are resized to 224x224 for model compatibility. For more details about the dataset, refer to the [dataset link](https://www.kaggle.com/code/arham23/brain-mri-segmentation-eda-and-unet-unet-results/input).
 
+
 ### Preprocessing Steps
 1. Resizing images to 224x224.
 2. Saving resized images to a dedicated directory for training and validation.
@@ -53,5 +54,8 @@ The segmentation results are visualized to compare the ground truth masks and mo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   [https://github.com/Vinay87950/Deep_vision.git]
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
