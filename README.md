@@ -67,5 +67,5 @@ The segmentation results are visualized to compare the ground truth masks and mo
 5. Hyperparameter Tuning
 
 ## Result 
-<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/train_loss.png" width="300"/>
+<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/train_loss.png" width="600"/>
 
