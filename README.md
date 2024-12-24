@@ -17,6 +17,7 @@ This project focuses on segmenting brain MRI scans using advanced deep learning 
 5. [Results and Visualization](#results-and-visualization)
 6. [Installation](#installation)
 7. [Usage](#usage)
+8. [Result](#result)
 
 
 ## Introduction
@@ -65,4 +66,6 @@ The segmentation results are visualized to compare the ground truth masks and mo
 4. Visualizing Results
 5. Hyperparameter Tuning
 
+## Result 
+<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/train_loss.png" width="300"/>
 
