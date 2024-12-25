@@ -15,9 +15,8 @@ This project focuses on segmenting brain MRI scans using advanced deep learning 
 3. [Exploratory Data Analysis](#exploratory-data-analysis)
 4. [Model Implementation](#model-implementation)
 5. [Results and Visualization](#results-and-visualization)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Result](#result)
+6. [Usage](#usage)
+
 
 
 ## Introduction
@@ -51,13 +50,9 @@ TransUnet integrates transformer modules into the U-Net architecture for enhance
 ## Results and Visualization
 The segmentation results are visualized to compare the ground truth masks and model predictions. These visualizations help in assessing the model’s performance qualitatively.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   [https://github.com/Vinay87950/Deep_vision.git]
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
+<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/train_loss.png" width="600"/>
+<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/val_loss.png" width="600"/>
+
 
 ## Usage
 1. Dataset Preparation
@@ -66,9 +61,7 @@ The segmentation results are visualized to compare the ground truth masks and mo
 4. Visualizing Results
 5. Hyperparameter Tuning
 
-## Result 
 
-<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/train_loss.png" width="600"/>
-<img src="https://github.com/Vinay87950/Deep_vision/blob/main/latex/val_loss.png" width="600"/>
+
 
 
